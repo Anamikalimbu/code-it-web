@@ -1,0 +1,19 @@
+.adj{
+    background-color: #1d3548;
+}  
+.advertise{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    color: white;
+}
+.icon{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.tel{
+    padding-left: 10px;
+    padding-right: 10px;
+}
