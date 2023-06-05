@@ -1,0 +1,7 @@
+.nav-item a:hover{
+    color: lightskyblue;
+}
+.nav-item a{
+    font-size: 17px;
+    color: black;
+}
